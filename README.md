@@ -18,21 +18,28 @@
 - 💞️ I’m open to collaborate, just shoot me a message
 - 📫 How to reach me by email: GreatApe42069@proton.me
 
-  ▄▄▄▄▄▪︎♤▪︎▄▄▄▄▄
-    ▂▄▄▓▄▄▂
+▄▄▄▄▄▪︎♤▪︎▄▄▄▄▄
+
+       ▂▄▄▓▄▄▂
+
   ◢◤ █▀Ħ████▄▄▄▄◢◤▪︎▪︎▪︎¤╬
+
  █▄ █ █▄ ███▀▀▀▀▀▀▀
-   ◥█████◤
-   ══╩══╩══
-     ╬═╬
-     ╬═╬
-     ╬═╬
-     ╬═╬    GET IN!
-     ╬═╬ $ĐOGE = FUTURE 
-     ╬═╬ 
-     ╬═╬🤑/Đ
-     ╬═╬/▌
-     ╬═╬/ \
+
+  ◥█████◤
+
+  ══╩══╩══
+
+    ╬═╬
+    ╬═╬
+    ╬═╬
+    ╬═╬    GET IN!
+    ╬═╬ $ĐOGE = FUTURE 
+    ╬═╬ 
+    ╬═╬🤑/Đ
+    ╬═╬/▌
+    ╬═╬/ \
+ 
 
 - 💰 Tip me in Đoge: https://Mydoge.com/GreatApe42069
 - 💰 Tip me in Đoge: DC8iWykpcZS6HVZdCNLvJehunRyXotGoHH
