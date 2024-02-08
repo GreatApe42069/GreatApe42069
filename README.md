@@ -18,28 +18,25 @@
 - 💞️ I’m open to collaborate, just shoot me a message
 - 📫 How to reach me by email: GreatApe42069@proton.me
 
-▄▄▄▄▄▪︎♤▪︎▄▄▄▄▄
-
-      ▂▄▄▓▄▄▂
-  
+  ▄▄▄▄▄▪︎♤▪︎▄▄▄▄▄
+    ▂▄▄▓▄▄▂
   ◢◤ █▀Ħ████▄▄▄▄◢◤▪︎▪︎▪︎¤╬
+ █▄ █ █▄ ███▀▀▀▀▀▀▀
+   ◥█████◤
+   ══╩══╩══
+     ╬═╬
+     ╬═╬
+     ╬═╬
+     ╬═╬    GET IN!
+     ╬═╬ $ĐOGE = FUTURE 
+     ╬═╬ 
+     ╬═╬🤑/Đ
+     ╬═╬/▌
+     ╬═╬/ \
 
-█▄ █ █▄ ███▀▀▀▀▀▀▀
-
-     ◥█████◤
- 
-    ══╩══╩══
-  
-        ╬═╬
-        ╬═╬
-        ╬═╬
-        ╬═╬    GET IN!
-        ╬═╬ $ĐOGE = FUTURE 
-        ╬═╬ 
-        ╬═╬🤑/Đ
-        ╬═╬/▌
-        ╬═╬/ \
 - 💰 Tip me in Đoge: https://Mydoge.com/GreatApe42069
+- 💰 Tip me in Đoge: DC8iWykpcZS6HVZdCNLvJehunRyXotGoHH
+- 💰 Tip me in ETH: greatape42069.eth
 <!---
 GreatApe42069/GreatApe42069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
