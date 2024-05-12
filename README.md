@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m @GreatApe42069
 - 😎 Self-proclaimed Tech Genius, and Finance Rebel: No advice, no timing, I just HOĐL and if you're offended, it's a success. Im a hedge fund shills' worst nightmare 😈
-- 👀 I’m interested in Gaming, Đogecoin, Cryptoghraphy, Cryptocurrencies, Web3, and Digital Art 
+- 👀 I’m interested in Gaming, Đogecoin, Đoginals, Cryptoghraphy, Cryptocurrencies, Web3, and Digital Art 
 - 🌱 I’m currently learning Everything that I can about everything I can
 - 💞️ I’m open to collaborate, just shoot me a message
 - 📫 How to reach me by email: GreatApe42069@proton.me
