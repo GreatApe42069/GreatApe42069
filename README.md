@@ -1,5 +1,3 @@
-
-
 ![1500x500](https://github.com/user-attachments/assets/9d4ffe69-2b39-461e-926b-a628c23b3dee)
 <h1 align="center">
   <br>
