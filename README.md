@@ -40,10 +40,12 @@
     ╬═╬/▌
     ╬═╬/ \
  
-
+# Buy Me a Coffee
 - 💰 Tip me in Đoge: https://Mydoge.com/GreatApe42069
-- 💰 Tip me in Đoge: DC8iWykpcZS6HVZdCNLvJehunRyXotGoHH
+- 💰 Tip me in Đoge: **DC8iWykpcZS6HVZdCNLvJehunRyXotGoHH**
 - 💰 Tip me in ETH: greatape42069.eth
+
+![image](https://github.com/user-attachments/assets/92ad2d4c-b3b1-4464-b9c0-708038634770)
 <!---
 GreatApe42069/GreatApe42069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
