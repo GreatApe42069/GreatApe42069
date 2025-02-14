@@ -190,11 +190,7 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 
 ## Dark Snake
 ![GreatApe42069's Github activity graph](https://raw.githubusercontent.com/GreatApe42069/GreatApe42069/output/github-contribution-grid-snake-dark.svg)
-
-## Profile Green Animate
 ![Profile Green Animate](./profile-3d-contrib/profile-green-animate.svg)
-
-## Grid Snake
 ![Grid Snake](https://github.com/GreatApe42069/GreatApe42069/blob/output/github-contribution-grid-snake.svg)
 
 ## Top Codersrank
