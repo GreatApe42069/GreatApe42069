@@ -27,22 +27,22 @@
 I am 😎 Self-proclaimed Tech Genius, and Finance Rebel: No advice, no timing, I just HOĐL and if you're offended, it's a success. I'm a hedge fund shills' worst nightmare 😈
 
 ## 👀 Interests
-- Gaming
-- Đogecoin
-- Đoginals
-- Cryptography
-- Cryptocurrencies
-- Web3
-- Digital Art
-- I like to BUIĐL things
-- Helping others
-- UTXOs
-- Anything Open Sourced
-- Truth
-- Coding
-- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
-- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
-- ✔️ Sport (motocross, football, basketball): Engage in physical activities.
+- ✔️ Gaming 🎮 
+- ✔️ Đogecoin 🐕 
+- ✔️ Đoginals 🐶 
+- ✔️ Cryptography 🔐
+- ✔️ Cryptocurrencies ⛓
+- ✔️ Web3 💻
+- ✔️ Digital Art 🖼
+- ✔️ I like to BUIĐL things 🔨
+- ✔️ Helping others 🫂
+- ✔️ UTXOs ⛓
+- ✔️ Anything Open Sourced 📂
+- ✔️ Truth 💯
+- ✔️ Coding 👨‍💻
+- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements 🤴
+- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment 👨‍👩‍👧‍👦
+- ✔️ Sports (motocross, football, basketball, baseball): Engage in physical activities 🏈🏀⚾️
 
 ## 🌱 Currently Learning
 - Everything that I can about everything I can
@@ -54,35 +54,37 @@ I am 😎 Self-proclaimed Tech Genius, and Finance Rebel: No advice, no timing, 
 - Email: GreatApe42069@proton.me
 
 ## Skills
-- HyperIntelligence
-- MicroStrategy Desktop
-- Painting
-- Ethics
-- Carpentry
-- Art Appreciation
-- Resume Writing
-- Typing
-- Negotiation
-- Skilled Multi-tasker
-- Order Processing
-- Customer Satisfaction
-- Customer Interaction
-- Customer Service
-- Customer Experience
-- Webcam Minutes
-- Communication
-- Laptops
-- Desktop Computers
-- Customer Support
-- Problem Solving
-- Broadband Access
-- Cryptocurrency
-- Artificial intelligence LLMs
-- Prompt writing
-- JavaScript
-- Python
-- React
-- Full stack Development
+- 👨‍💻 HyperIntelligence
+- 👨‍💻 MicroStrategy Desktop
+- 🎨 Painting
+- 💯 Ethics
+- 🔨 Carpentry
+- 🖼 Art Appreciation
+- ✍ Resume Writing
+- ⌨ Typing
+- 🤝 Negotiation
+- 🤹‍♂️ Skilled Multi-tasker
+- 📥 Order Processing
+- 🤳 Customer Satisfaction
+- 🤳 Customer Interaction
+- 🤳 Customer Service
+- 🤳 Customer Experience
+- 📸 Webcam Minutes
+- 🛰 Communication
+- 💻 Laptops
+- 💾 Desktop Computers
+- 🤳 Customer Support
+- 🧠 Problem Solving
+- 🛰 Broadband Access
+- ⛓ Cryptocurrency
+- 🤖 Artificial intelligence LLMs
+- ✍ Prompt writing
+- 👨‍💻 JavaScript
+- 👨‍💻 Python
+- 👨‍💻 React
+-👨‍💻 HTML
+- 👨‍💻 Typescript
+- 👨‍💻 Full stack Development
 
 ## Experience
 - ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects.
@@ -223,3 +225,15 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 - [Wonky Ord](https://wonky-ord.dogeord.io/content/d2f3a4a2945d3fbaa62664f4eea6634fb9828ec2285fcddcec5d86764f5b433bi0)
 - [Doggy Market](https://cdn.doggy.market/content/d2f3a4a2945d3fbaa62664f4eea6634fb9828ec2285fcddcec5d86764f5b433bi0)
 
+## Thanks for visiting!Counting of visitors to this page in this section started from Feb 14, 2025
+
+![Visitor Count](https://profile-counter.glitch.me/GreatApe42069/count.svg)
+
+![Visitor Counter](https://count.getloli.com/get/@GreatApe42069.github.readme)
+
+# Đo Only Good Everyday
+![image](https://github.com/user-attachments/assets/92ad2d4c-b3b1-4464-b9c0-708038634770)
+<!---
+GreatApe42069/GreatApe42069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
