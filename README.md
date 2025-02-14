@@ -225,9 +225,8 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 - [Wonky Ord](https://wonky-ord.dogeord.io/content/d2f3a4a2945d3fbaa62664f4eea6634fb9828ec2285fcddcec5d86764f5b433bi0)
 - [Doggy Market](https://cdn.doggy.market/content/d2f3a4a2945d3fbaa62664f4eea6634fb9828ec2285fcddcec5d86764f5b433bi0)
 
-## Thanks for visiting!Counting of visitors to this page in this section started from Feb 14, 2025
-
-![Visitor Count](https://profile-counter.glitch.me/GreatApe42069/count.svg)
+# Thanks for visiting!
+## Counting of visitors to this page in this section started from Feb 14, 2025
 
 ![Visitor Counter](https://count.getloli.com/get/@GreatApe42069.github.readme)
 
