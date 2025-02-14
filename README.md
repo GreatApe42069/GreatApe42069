@@ -188,22 +188,15 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 
 ---
 
-## Dark Snake
-![GreatApe42069's github activity graph](https://raw.githubusercontent.com/GreatApe42069/GreatApe42069/output/github-contribution-grid-snake-dark.svg)
+## Dark Snake ![GreatApe42069's github activity graph](https://raw.githubusercontent.com/GreatApe42069/GreatApe42069/output/github-contribution-grid-snake-dark.svg) 
 
-## Profile Green Animate
-![Profile Green Animate](./profile-3d-contrib/profile-green-animate.svg)
+## Profile Green Animate ![Profile Green Animate](https://raw.githubusercontent.com/GreatApe42069/GreatApe42069/output/profile-3d-contrib/profile-green-animate.svg) 
 
-## Grid Snake
-![Grid Snake](https://github.com/GreatApe42069/GreatApe42069/blob/output/github-contribution-grid-snake.svg)
+## Grid Snake ![Grid Snake](https://raw.githubusercontent.com/GreatApe42069/GreatApe42069/output/github-contribution-grid-snake.svg) 
 
-## Top Codersrank
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=GreatApe42069&show-other-skills=true" width="auto"></img>
+## Top Codersrank <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=GreatApe42069&show-other-skills=true" width="auto"></img> 
 
-## Trophy: Github Profile Trophy
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
+## Trophy: Github Profile Trophy <div align="center"> <summary>Trophy: Github Profile Trophy</summary> <img src="https://github-profile-trophy.vercel.app/?username=GreatApe42069&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" /> </div>
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=GreatApe42069/your-repo&type=Date)](https://star-history.com/#GreatApe42069/your-repo&Date)
