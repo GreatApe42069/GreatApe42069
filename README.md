@@ -40,6 +40,9 @@ I am 😎 Self-proclaimed Tech Genius, and Finance Rebel: No advice, no timing, 
 - Anything Open Sourced
 - Truth
 - Coding
+- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
+- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
+- ✔️ Sport (motocross, football, basketball): Engage in physical activities.
 
 ## 🌱 Currently Learning
 - Everything that I can about everything I can
@@ -81,6 +84,20 @@ I am 😎 Self-proclaimed Tech Genius, and Finance Rebel: No advice, no timing, 
 - React
 - Full stack Development
 
+## Experience
+- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects.
+- ⭐ Worked on innovative and cutting-edge projects
+- ⭐ Contribute to industry thought leadership
+- ⭐ Contribute to open source and private source
+- ⭐ Master new technologies, master computer science and mathematics.
+
+## Big believer in:
+- 💡 Power of continuous learning and personal growth
+- 💡 Importance of cultivating a positive mindset and embracing optimism
+- 💡 Value of hard work and perseverance in achieving success
+- 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
+- 💡 Importance of ethical behavior and integrity in all aspects of life.
+
 ## Certifications
 - ARTH101: Art Appreciation - Saylor Academy
 - BUS200: Business Ethics - Saylor Academy
@@ -102,6 +119,31 @@ I am 😎 Self-proclaimed Tech Genius, and Finance Rebel: No advice, no timing, 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GreatApe42069&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatApe42069&layout=compact&theme=radical)
 
+
+| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
+| ------------------------------------------- | ---------------------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=851265087&limit=100&image_size=auto"/> |
+
+| Star Geographic Distribution | Star History |
+| ----------------------------- | ------------ |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+
+| Company Affiliation | Lines of Code Changes |
+| ------------------- | --------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+
+| Pull Request Size | Pull Request Lifecycle |
+| ----------------- | ---------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+
+| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
+| ----------------------------------- | -------------------------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+
+| Repository Annual Ranking |
+| ------------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /> |
+
 ## Featured Repositories:
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=Node-Runners)](https://github.com/GreatApe42069/Node-Runners)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=dogecoin)](https://github.com/GreatApe42069/dogecoin)
@@ -114,17 +156,64 @@ I am 😎 Self-proclaimed Tech Genius, and Finance Rebel: No advice, no timing, 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Next-js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## 🥇 Personal Stats:
 With over 36 years of Đegenerate experience in Shaking shit up with Full Stack Development, Artificial Intelligence, and Cryptocurrency technologies.
 
 ---
 
+## Dark Snake
+![GreatApe42069's github activity graph](https://raw.githubusercontent.com/GreatApe42069/GreatApe42069/output/github-contribution-grid-snake-dark.svg)
+
+## Profile Green Animate
+![Profile Green Animate](./profile-3d-contrib/profile-green-animate.svg)
+
+## Grid Snake
+![Grid Snake](https://github.com/GreatApe42069/GreatApe42069/blob/output/github-contribution-grid-snake.svg)
+
+## Top Codersrank
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=GreatApe42069&show-other-skills=true" width="auto"></img>
+
+## 2D History Skills
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GreatApe42069&show-other-skills=true" width="auto"></img>
+
+## Trophy: Github Profile Trophy
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=GreatApe42069/your-repo&type=Date)](https://star-history.com/#GreatApe42069/your-repo&Date)
 
 ## Thanks for visiting!
 ![Visitor Count](https://profile-counter.glitch.me/GreatApe42069/count.svg)
+
+## Counting of visitors to this page in this section started from June 12, 2022
+![Visitor Counter](https://count.getloli.com/get/@GreatApe42069.github.readme)
 
 ## My Doginal Art Collection:
 ### Official Ape-stract Art Links 🔗
