@@ -16,12 +16,6 @@
 <a href="https://x.com/Greatape42069E/photo" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 </p>
 
-[**[Hire A Talent](https://tally.so/r/3lldZB)**]
-[**[Request A Quote](https://tally.so/r/3lldZB)**]
-[**[Find A Jobs](https://tally.so/r/3j9Qza)**] 
-[**[For Companies](https://tally.so/r/3lldZB)**]
-[**[For Developers](https://tally.so/r/3j9Qza)**]
-
 [**[Chat With Me](https://x.com/Greatape42069E)**]
 [**[Work With Me](https://github.com/GreatApe42069)**]
 [**[Newsletters](https://greatape42069.substack.com)**]
