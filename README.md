@@ -196,7 +196,8 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 
 ## Top Codersrank <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=GreatApe42069&show-other-skills=true" width="auto"></img> 
 
-## Trophy: Github Profile Trophy <div align="center"> <summary>Trophy: Github Profile Trophy</summary> <img src="https://github-profile-trophy.vercel.app/?username=GreatApe42069&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" /> </div>
+# Trophies 
+<div align="center"> <summary> Github Profile Trophies</summary> <img src="https://github-profile-trophy.vercel.app/?username=GreatApe42069&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" /> </div>
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=GreatApe42069/your-repo&type=Date)](https://star-history.com/#GreatApe42069/your-repo&Date)
