@@ -4,13 +4,13 @@
 A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Finance Rebel, I Give No advice, have No timing, I just HOĐL and if you're offended, it's a success. I'm a Trolls worst nightmare 😈 Cope Harder!
 <h1 align="center">
   <br>
-  <a href="https://x.com/Greatape42069E/photo"><img src="./images/hero_1.0.jpg" alt="Greatape42069E" width="500px;"></a>
+  <a href="https://x.com/Greatape42069E"><img src="./images/hero_1.0.jpg" alt="Greatape42069E" width="500px;"></a>
   <br> 
-  <a href="https://x.com/Greatape42069E/photo"><img src="https://img.shields.io/badge/𝕏-Follow Me-cyan">
+  <a href="https://x.com/Greatape42069E"><img src="https://img.shields.io/badge/𝕏-Follow Me-cyan">
 </a>
 </h1>
 
-📢 Nominate ([@GreatApe42069](https://github.com/GreatApe42069)) as **[GitHub Star](https://stars.github.com/nominate)** if you appreciate my hard work and dedication to open source.
+📢 Nominate ([@GreatApe42069](https://x.com/Greatape42069E)) as **[GitHub Star](https://stars.github.com/nominate)** if you appreciate my hard work and dedication to open source.
 
 ## Buy me a Coffee 
 
@@ -171,7 +171,7 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Next-js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
- <a href="https://x.com/Greatape42069E/photo"><img src="./images/hero_0.9.jpg" alt="Greatape42069E" width="500px;"></a>
+ <a href="https://x.com/Greatape42069E"><img src="./images/hero_0.9.jpg" alt="Greatape42069E" width="500px;"></a>
 
 ## 🥇 Personal Stats:
 With over 36 years of Đegenerate experience in Shaking shit up with Full Stack Development, Artificial Intelligence, and Cryptocurrency technologies.
