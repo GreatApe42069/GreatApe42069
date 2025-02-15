@@ -1,4 +1,4 @@
-![1500x500](https://github.com/user-attachments/assets/9d4ffe69-2b39-461e-926b-a628c23b3dee)
+<a href="https://x.com/Greatape42069E"><img width="100%" src="https://github.com/user-attachments/assets/9d4ffe69-2b39-461e-926b-a628c23b3dee"></a>
 ## 🐒 Hi, I’m @GreatApe42069
 
 A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Finance Rebel, I Give No advice, have No timing, I just HOĐL and if you're offended, it's a success. I'm a Trolls worst nightmare 😈 Cope Harder!
