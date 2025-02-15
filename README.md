@@ -213,7 +213,7 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 ![Visitor Counter](https://count.getloli.com/get/@GreatApe42069.github.readme)
 
 # Đo Only Good Everyday
-![image](https://github.com/user-attachments/assets/92ad2d4c-b3b1-4464-b9c0-708038634770)](https://dogecoin.com/)
+<a href="https://dogecoin.com/"><img src="https://github.com/user-attachments/assets/92ad2d4c-b3b1-4464-b9c0-708038634770" alt="Dogecoin"></a>
 ## Tip Me:
 - 💰 Tip me in Đoge: [Mydoge.com/GreatApe42069](https://Mydoge.com/GreatApe42069)
 - 💰 Tip me in Đoge: **DC8iWykpcZS6HVZdCNLvJehunRyXotGoHH**
