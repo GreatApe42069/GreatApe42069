@@ -222,7 +222,7 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 <p align="center">
 <a href="https://mydoge.com/GreatApe42069" target="_blank"><img width="100%" src="./images/Gds6KECXQAAa4gU.jpeg"></a>
 </p>
- <a href="https://x.com/Dogecoin/photo"><img src="./images/hero_0.6.jpg" alt="Greatape42069E" width="500px;"></a>
+ <a href="https://x.com/Dogecoin"><img src="./images/hero_0.6.jpg" alt="Greatape42069E" width="500px;"></a>
  <p align="center">
     WOOF!
  </p>
