@@ -6,8 +6,8 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
   <br>
   <a href="https://x.com/Greatape42069E/photo"><img src="./images/hero_1.0.jpg" alt="Greatape42069E" width="500px;"></a>
   <br> 
-  <img src="https://img.shields.io/badge/𝕏-Follow Me-cyan">
-  
+  <a href="https://x.com/Greatape42069E/photo"><img src="https://img.shields.io/badge/𝕏-Follow Me-cyan">
+</a>
 </h1>
 
 📢 Nominate ([@GreatApe42069](https://github.com/GreatApe42069)) as **[GitHub Star](https://stars.github.com/nominate)** if you appreciate my hard work and dedication to open source.
