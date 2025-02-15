@@ -18,7 +18,7 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
 
 ***Đoge: DC8iWykpcZS6HVZdCNLvJehunRyXotGoHH***
 <p align="center">
-<a href="https://dogecoin.com"><img src="./images/hero_0.5.jpg" alt="Dogecoin" width="500px;"></a>
+<a href="https://mydoge.com/GreatApe42069"><img src="./images/hero_0.5.jpg" alt="Dogecoin" width="500px;"></a>
 </p>
 
 [**[Chat With Me](https://x.com/Greatape42069E)**]
