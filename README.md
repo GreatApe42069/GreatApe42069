@@ -6,7 +6,7 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
   <br>
   <a href="https://x.com/Greatape42069E/photo"><img src="./images/hero_1.0.jpg" alt="Greatape42069E" width="500px;"></a>
   <br> 
-  <img src="https://img.shields.io/badge/PRs-welcome-cyan">
+  <img src="https://img.shields.io/badge/𝕏-Follow Me-cyan">
   
 </h1>
 
