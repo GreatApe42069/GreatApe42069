@@ -18,7 +18,7 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
 
 ***Đoge: DC8iWykpcZS6HVZdCNLvJehunRyXotGoHH***
 <p align="center">
-<a href="https://x.com/Greatape42069E/photo" target="_blank"><img width="100%" src="./images/hero_0.5.jpg"></a>
+<a href="https://dogecoin.com"><img src="./images/hero_0.5.jpg" alt="Dogecoin" width="500px;"></a>
 </p>
 
 [**[Chat With Me](https://x.com/Greatape42069E)**]
@@ -193,7 +193,7 @@ With over 36 years of Đegenerate experience in Shaking shit up with Full Stack 
 
 ## My Doginal Art Collection:
 ### Official Ape-stract Art Links 🔗
- <a href="[https://x.com/Greatape42069E/photo](https://wonky-ord.dogeord.io/content/d2f3a4a2945d3fbaa62664f4eea6634fb9828ec2285fcddcec5d86764f5b433bi0)"><img src="./images/hero_0.8.jpg" alt="Greatape42069E" width="500px;"></a>
+ <a href="https://wonky-ord.dogeord.io/content/d2f3a4a2945d3fbaa62664f4eea6634fb9828ec2285fcddcec5d86764f5b433bi0"><img src="./images/hero_0.8.jpg" alt="Greatape42069E" width="500px;"></a>
 **Socials**
 - [X](https://x.com/Ape_stract_Art)
 - [Telegram](https://t.me/Ape_stract_Art_HODLers_Chat)
