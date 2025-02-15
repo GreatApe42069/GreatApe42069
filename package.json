@@ -1,7 +1,7 @@
 {
-  "name": "idimetrix",
+  "name": "GreatApe42069",
   "version": "1.0.0",
-  "description": "📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.",
+  "description": "📢 Nominate ([@GreatApe42069](https://github.com/GreatApe42069/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write .",
