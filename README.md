@@ -81,7 +81,7 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
 - 👨‍💻 JavaScript
 - 👨‍💻 Python
 - 👨‍💻 React
--👨‍💻 HTML
+- 👨‍💻 HTML
 - 👨‍💻 Typescript
 - 👨‍💻 Full stack Development
 
