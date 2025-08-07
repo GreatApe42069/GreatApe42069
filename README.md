@@ -86,7 +86,7 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
 - 👨‍💻 Full stack Development
 
 ## Experience
-- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects.
+- ⭐ Co-founder and co-creator of multiple Web2 and Web3 projects.
 - ⭐ Worked on innovative and cutting-edge projects
 - ⭐ Contribute to industry thought leadership
 - ⭐ Contribute to open source and private source
@@ -174,7 +174,8 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
  <a href="https://x.com/Greatape42069E"><img src="./images/hero_0.9.jpg" alt="Greatape42069E" width="500px;"></a>
 
 ## 🥇 Personal Stats:
-With over 36 years of Đegenerate experience in Shaking shit up with Full Stack Development, Artificial Intelligence, and Cryptocurrency technologies.
+With over 36 years of Đegeneracy and only 3 years experience in Shaking shit up with Full Stack Development, Artificial Intelligence, and Cryptocurrency technologies....
+Much WoW
 
 ---
 
