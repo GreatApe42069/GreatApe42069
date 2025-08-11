@@ -139,7 +139,7 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=Node-Runners)](https://github.com/GreatApe42069/Node-Runners)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=dogecoin)](https://github.com/GreatApe42069/dogecoin)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=ord)](https://github.com/GreatApe42069/ord)
-
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=doginals)](https://github.com/GreatApe42069/doginals)
 [![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=dunes-cli)](https://github.com/GreatApe42069/dunes-cli)
 
 ## Primary Technology Stack:
