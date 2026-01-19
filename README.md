@@ -135,12 +135,15 @@ A 😎 Self-proclaimed Tech Genius, Full Blown Degen 🤪 slight Autist and Fina
 | ------------------------- |
 | <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /> |
 
+![Alt](https://repobeats.axiom.co/api/embed/06c4a580a10e33620f12b5b987ddde2c8ab7034e.svg "Repobeats analytics image")
+
 ## Featured Repositories:
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=Node-Runners)](https://github.com/GreatApe42069/Node-Runners)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=dogecoin)](https://github.com/GreatApe42069/dogecoin)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=ord)](https://github.com/GreatApe42069/ord)
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=doginals)](https://github.com/GreatApe42069/doginals)
 [![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=dunes-cli)](https://github.com/GreatApe42069/dunes-cli)
+[![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=GreatApe42069&repo=dogechat-android)](https://github.com/GreatApe42069/dogechat-android)
 
 ## Primary Technology Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
